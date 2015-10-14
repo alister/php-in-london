@@ -25,6 +25,13 @@ organized under **Numbers**.
 
 ## A
 
+Amara,
+6-8 Bonhill Street,
+London.
+EC2A 4BX
+
+* https://www.amara.com
+* [@amaraliving](https://twitter.com/amaraliving)
 
 ## B
 
