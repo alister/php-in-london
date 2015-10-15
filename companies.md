@@ -56,7 +56,7 @@ EC2A 3QQ
 * http://fatbeehive.com
 * [@fatbeehive](https://twitter.com/fatbeehive)
 
-PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, ie. SalesForce, MailChimp.
+PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, MailChimp.
 
 ## G
 
