@@ -40,6 +40,15 @@ EC2A 4BX
 
 
 ## D
+Dennis Publishing,
+30 Cleveland Street,
+London.
+W1T 4JD
+
+* http://www.dennis.co.uk | [careers](http://denniscareers.com)
+* [@denniscareers](https://twitter.com/denniscareers)
+
+PHP Tech: e.g. Drupal.
 
 DeskPRO Ltd.
 81-83 Fulham High Street
