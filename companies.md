@@ -45,7 +45,7 @@ Dennis Publishing,
 London.
 W1T 4JD
 
-* http://www.dennis.co.uk | [careers](http://denniscareers.com)
+* http://www.dennis.co.uk | [careers](http://www.denniscareers.co.uk/)
 * [@denniscareers](https://twitter.com/denniscareers)
 
 PHP Tech: e.g. Drupal.
