@@ -2,7 +2,7 @@
 
 When adding a company, sort them by name and use this format:
 ```
-Company Name,
+### Company Name,
 1 Main St,
 Shoreditch,
 London.
@@ -25,7 +25,7 @@ organized under **Numbers**.
 
 ## A
 
-Amara,
+### Amara,
 6-8 Bonhill Street,
 London.
 EC2A 4BX
@@ -40,7 +40,7 @@ EC2A 4BX
 
 
 ## D
-Dennis Publishing,
+### Dennis Publishing,
 30 Cleveland Street,
 London.
 W1T 4JD
@@ -50,7 +50,7 @@ W1T 4JD
 
 PHP Tech: e.g. Drupal.
 
-DeskPRO Ltd.
+### DeskPRO Ltd.
 81-83 Fulham High Street
 London
 SW6 3JA
@@ -62,7 +62,7 @@ SW6 3JA
 
 ## F
 
-Fat Beehive,
+### Fat Beehive,
 Unit 6, Suna House
 65 Rivington Street,
 London.
@@ -81,7 +81,7 @@ PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, Mail
 
 ## I
 
-Inviqa.
+### Inviqa.
 Castlewood,
 77-91 New Oxford Street,
 London.
@@ -119,7 +119,7 @@ WC1A 1DG
 
 ## S
 
-J Sainsbury PLC.
+### J Sainsbury PLC.
 33 Holborn
 London
 EC1N 2HT
@@ -128,7 +128,7 @@ EC1N 2HT
 * [@sainsburys](https://twitter.com/sainsburys)
 
 
-Spotify Limited.
+### Spotify Limited.
 4th Floor,
 25 Argyll Street,
 London.
@@ -139,7 +139,7 @@ W1F 7TU
 
 ## T
 
-Time Inc. UK.
+### Time Inc. UK.
 Blue Fin Building, 
 110 Southwark Street, 
 London
@@ -149,7 +149,7 @@ SE1 0SU
 * [@TimeIncUK](https://twitter.com/TimeIncUK)
 
 
-TimeOut
+### TimeOut
 4th Floor
 125 Shaftesbury Avenue
 London
@@ -174,4 +174,3 @@ WC2H 8AD
 
 
 ## Z
-
