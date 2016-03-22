@@ -9,4 +9,5 @@ edit directly from within the Github website if you want).
 
 This is a local version of [@awoods](https://twitter.com/awoods/status/652204250408161280) list for [Seattle-based PHP companies](https://github.com/andrewwoods/php-in-seattle).
 
-https://travis-ci.org/alister/php-in-london.svg?branch=master
+
+[![Travis Status](https://travis-ci.org/alister/php-in-london.svg?branch=master)](https://travis-ci.org/alister/php-in-london)
