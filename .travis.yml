@@ -4,6 +4,6 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot companies.md --white-list example.com
+  - awesome_bot companies.md --allow-redirect --white-list example.com
 notifications:
   email: false
