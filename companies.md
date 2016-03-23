@@ -12,6 +12,7 @@ EC1 1AA
 * @twitter
 
 PHP Tech: e.g. WordPress, Laravel, etc.
+Company Activity: Britain's leading ecommerce site for inflatable anvils
 ```
 
 Some Markdown formatting for naming links is fine.
