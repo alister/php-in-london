@@ -175,3 +175,6 @@ WC2H 8AD
 
 
 ## Z
+
+----
+Want to add a company? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the website.
