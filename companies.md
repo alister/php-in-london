@@ -166,7 +166,17 @@ WC2H 8AD
 
 
 ## W
+### World First,
+Millbank Tower,
+21-24 Millbank,
+London.
+SW1P 4QP
 
+* http://www.worldfirst.com | [Careers](https://www.worldfirst.com/uk/careers/current-vacancies/)
+* [@WorldFirstUK](https://twitter.com/WorldFirstUK)
+* [+WorldFirst](https://plus.google.com/+worldfirst)
+
+Company Activity: International Currency Transfers
 
 ## X
 
