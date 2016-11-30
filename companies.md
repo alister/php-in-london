@@ -47,7 +47,7 @@ London.
 W1T 4JD
 
 * http://www.dennis.co.uk | [careers](http://www.denniscareers.co.uk/)
-* [@denniscareers](https://twitter.com/denniscareers)
+* [@lifeatdennis](https://twitter.com/lifeatdennis)
 
 PHP Tech: e.g. Drupal.
 
@@ -187,4 +187,4 @@ Company Activity: International Currency Transfers
 ## Z
 
 ----
-Want to add a company? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the website.
+Want to add a company? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
