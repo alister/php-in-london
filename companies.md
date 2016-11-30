@@ -137,6 +137,14 @@ EC1N 2HT
 * https://www.sainsburys.co.uk | http://www.sainsburys.work/dandt
 * [@sainsburys](https://twitter.com/sainsburys)
 
+### Snap.hr,
+1 Fore St.,
+WeWork,
+London.
+EC2Y 9DT
+
+* https://snap.hr
+* [@snap_hr](https://twitter.com/snap_hr)
 
 ### Spotify Limited.
 4th Floor,
