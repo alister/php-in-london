@@ -45,13 +45,13 @@ organized under **Numbers**.
 
 ## E
 
-### Explore Group
+### Explore Group,
 9 Devonshire Square,
-London,
+London.
 EC2M 4YF
 
 * http://www.explore-group.com | [careers](http://www.explore-group.com/job-search-results/28/)
-* https://twitter.com/Exploregroup1
+* [@Exploregroup1](https://twitter.com/Exploregroup1)
 
 ## F
 
