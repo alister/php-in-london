@@ -46,8 +46,8 @@ organized under **Numbers**.
 ## E
 
 ### Explore Group
-Explore Group 9 Devonshire Square 
-London 
+9 Devonshire Square,
+London,
 EC2M 4YF
 
 * http://www.explore-group.com | [careers](http://www.explore-group.com/job-search-results/28/)
