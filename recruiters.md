@@ -37,6 +37,14 @@ organized under **Numbers**.
 
 ## A
 
+### Aspire,
+20 New Cavendish Street,
+London.
+W1W 6XX
+
+* https://www.weareaspire.com
+* [@We_Are_Aspire](https://twitter.com/We_Are_Aspire)
+
 ## B
 
 ## C
@@ -44,6 +52,14 @@ organized under **Numbers**.
 ## D
 
 ## E
+
+### Explore Group,
+9 Devonshire Square,
+London.
+EC2M 4YF
+
+* http://www.explore-group.com | [careers](http://www.explore-group.com/job-search-results/28/)
+* [@Exploregroup1](https://twitter.com/Exploregroup1)
 
 ## F
 
