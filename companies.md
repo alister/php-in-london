@@ -8,7 +8,7 @@ Shoreditch,
 London.
 EC1 1AA
 
-* http://example.com | [careers](http://example.com/careers)
+* https://example.com | [careers](https://example.com)
 * @twitter
 
 PHP Tech: e.g. WordPress, Laravel, etc.
@@ -78,7 +78,7 @@ Unit 6, Suna House
 London.
 EC2A 3QQ
 
-* http://fatbeehive.com
+* https://www.fatbeehive.com/
 * [@fatbeehive](https://twitter.com/fatbeehive)
 
 PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, MailChimp.
@@ -97,7 +97,7 @@ Castlewood,
 London.
 WC1A 1DG
 
-* http://inviqa.com/
+* https://inviqa.com/
 * [@inviqa](https://twitter.com/inviqa)
 
 ## J
@@ -134,7 +134,7 @@ WC1A 1DG
 London
 EC1N 2HT
 
-* http://www.sainsburys.co.uk/ | http://www.sainsburys.work/dandt
+* https://www.sainsburys.co.uk | http://www.sainsburys.work/dandt
 * [@sainsburys](https://twitter.com/sainsburys)
 
 
@@ -144,7 +144,7 @@ EC1N 2HT
 London.
 W1F 7TU
 
-* https://www.spotify.com | [Spotify Jobs](https://www.spotify.com/uk/jobs/opportunities/)
+* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotify.com/uk/jobs/opportunities/)
 * [@spotify](https://twitter.com/spotify)
 
 ## T
@@ -181,7 +181,7 @@ Millbank Tower,
 London.
 SW1P 4QP
 
-* http://www.worldfirst.com | [Careers](https://www.worldfirst.com/uk/careers/current-vacancies/)
+* https://www.worldfirst.com/uk/ | [Careers](https://www.worldfirst.com/uk/careers/current-vacancies/)
 * [@WorldFirstUK](https://twitter.com/WorldFirstUK)
 * [+WorldFirst](https://plus.google.com/+worldfirst)
 

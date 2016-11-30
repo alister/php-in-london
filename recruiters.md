@@ -22,7 +22,7 @@ Shoreditch,
 London.
 EC1 1AA
 
-* http://example.com | [careers](http://example.com/careers)
+* https://example.com | [careers](https://example.com/careers)
 * @twitter
 
 Seeking skills: e.g. WordPress, Laravel, etc.
