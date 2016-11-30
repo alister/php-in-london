@@ -39,7 +39,7 @@ PHP Tech: Composer (usable in all major apps/frameworks)
 Purpose: Generic Web UI framework based on standard CSS framework.
 We meet: no schedule
 
-* http://github.com/atk4/ui
+* https://github.com/atk4/ui
 
 PHP Tech: Composer (usable in all major apps/frameworks)
 
