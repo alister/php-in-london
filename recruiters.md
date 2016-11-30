@@ -37,14 +37,6 @@ organized under **Numbers**.
 
 ## A
 
-### Aspire,
-20 New Cavendish Street,
-London.
-W1W 6XX
-
-* https://www.weareaspire.com
-* [@We_Are_Aspire](https://twitter.com/We_Are_Aspire)
-
 ## B
 
 ## C
