@@ -1,0 +1,91 @@
+# Recruiters
+
+### Don't spend your time asking if contractors are looking
+
+* talk to those candidates that want to to talk to you,
+* that can fill your clients needs,
+* and find out as soon as they become available.
+
+You already know the candidates that can do the job, and that you want to be able to hire next - but what 
+if you could see exactly when they were going to be available, without having to continually call them, 
+*just in case* they were ready to look for a new job?
+
+Find the contractors that want to hear from you: [Contract Availability](https://www.contractavailability.com/for/recruiters?dst=src.phpinlon).
+
+---
+
+When adding a company/recruiter, sort them by name and use this format:
+```
+### Name, Company Name,
+1 Main St,
+Shoreditch,
+London.
+EC1 1AA
+
+* http://example.com | [careers](http://example.com/careers)
+* @twitter
+
+Seeking skills: e.g. WordPress, Laravel, etc.
+```
+
+Some Markdown formatting for naming links is fine.
+
+A collection of companies organized alphabetically. Names that begin with a number e.g. 99 Designs, should be
+organized under **Numbers**.
+
+## Numbers
+
+## A
+
+## B
+
+## C
+
+## D
+
+## E
+
+## F
+
+## G
+
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+## M
+
+## N
+
+## O
+
+## P
+
+## Q
+
+## R
+
+## S
+
+## T
+
+## U
+
+## V
+
+## W
+
+## X
+
+## Y
+
+## Z
+
+----
+Want to add a recruiter? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/recruiters.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
