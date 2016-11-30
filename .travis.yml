@@ -4,6 +4,6 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot readme.md companies.md recruiters.md --white-list example.com --white-list github.com/alister/php-in-london
+  - awesome_bot readme.md companies.md recruiters.md --white-list example.com -w example.com/careers -w github.com/alister/php-in-london
 notifications:
   email: false
