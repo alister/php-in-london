@@ -26,23 +26,20 @@ A collection of companies organized alphabetically. Names that begin with a numb
 
 ### Agile Data (MIT)
 
-Founder: http://nearly.guru/
 Purpose: Data Access Framework for high-latency databases.
 We meet: Monthly in Parcel Yard, Kings Cross Station.
 
 * http://git.io/ad
-* Chat: http://gitter.im/atk4/atk4
+* @atk4, Chat: https://gitter.im/atk4/atk4
 
 PHP Tech: Composer (usable in all major apps/frameworks)
 
 ### Agile UI (MIT)
 
-Founder: http://nearly.guru/
 Purpose: Generic Web UI framework based on standard CSS framework.
 We meet: no schedule
 
 * http://github.com/atk4/ui
-* Chat: http://gitter.im/atk4/atk4
 
 PHP Tech: Composer (usable in all major apps/frameworks)
 
