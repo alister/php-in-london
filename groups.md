@@ -29,7 +29,7 @@ A collection of companies organized alphabetically. Names that begin with a numb
 Purpose: Data Access Framework for high-latency databases.
 We meet: Monthly in Parcel Yard, Kings Cross Station.
 
-* http://git.io/ad
+* https://git.io/ad
 * @atk4, Chat: https://gitter.im/atk4/atk4
 
 PHP Tech: Composer (usable in all major apps/frameworks)
