@@ -8,7 +8,7 @@ Shoreditch,
 London.
 EC1 1AA
 
-* https://example.com | [careers](https://example.com/careers)
+* https://example.com | [careers](https://example.com)
 * @twitter
 
 PHP Tech: e.g. WordPress, Laravel, etc.
@@ -69,7 +69,7 @@ Unit 6, Suna House
 London.
 EC2A 3QQ
 
-* http://www.fatbeehive.com/
+* https://www.fatbeehive.com/
 * [@fatbeehive](https://twitter.com/fatbeehive)
 
 PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, MailChimp.
@@ -172,7 +172,7 @@ Millbank Tower,
 London.
 SW1P 4QP
 
-* https://www.worldfirst.com/ | [Careers](https://www.worldfirst.com/uk/careers/current-vacancies/)
+* https://www.worldfirst.com/uk/ | [Careers](https://www.worldfirst.com/uk/careers/current-vacancies/)
 * [@WorldFirstUK](https://twitter.com/WorldFirstUK)
 * [+WorldFirst](https://plus.google.com/+worldfirst)
 
