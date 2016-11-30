@@ -43,6 +43,15 @@ EC1A 9HP
 * https://www.ayima.com
 * [@ayima](https://twitter.com/ayima)
 
+### Acknowledgement,
+54 Kingsway Place,
+London.
+EC1R 0LU
+
+* https://acknowledgement.uk
+* [@acknowledgement](https://twitter.com/acknowledgement)
+
+
 ## B
 
 
