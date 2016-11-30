@@ -34,6 +34,15 @@ EC2A 4BX
 * https://www.amara.com
 * [@amaraliving](https://twitter.com/amaraliving)
 
+### Ayima,
+1st Floor,
+1 Lindsey Street,
+London.
+EC1A 9HP 
+
+* https://www.ayima.com
+* [@ayima](https://twitter.com/ayima)
+
 ## B
 
 
