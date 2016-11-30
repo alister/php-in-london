@@ -89,6 +89,17 @@ EC2M 4YF
 
 ## S
 
+### Snap.hr,
+1 Fore St.,
+WeWork,
+London.
+EC2Y 9DT
+
+* https://snap.hr | [careers](https://snap.hr/jobs/php/)
+* @snap_hr
+
+Seeking skills: e.g. Symfony, Silex, Laravel,…
+
 ## T
 
 ## U
