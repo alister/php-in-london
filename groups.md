@@ -1,10 +1,9 @@
-# Groups & Projects
+# Groups
 
-List of **non-commercial** groups and projects with the goal to talk PHP or write PHP (open-source projects, start-up ideas, hackatons). When adding a group, sort them by name and use this format:
+List of **php-related** groups that are in close proximity to London.  When adding a group use this format:
 
 ``` markdown
-### Group or project Name 
-Founder(s): 
+### Group Name  
 Purpose: Teach kids PHP
 We meet: Monthly hackaton in <address>
 
@@ -16,7 +15,7 @@ PHP Tech: e.g. WordPress, Laravel, etc.
 
 Some Markdown formatting for naming links is fine.
 
-A collection of companies organized alphabetically. Names that begin with a number e.g. 99 Designs, should be organized under **Numbers**.
+A collection of groups organized alphabetically. Names that begin with a number e.g. 99 Designs, should be organized under **Numbers**. Names starting with "PHP" should use the next word for classification, e.g. "PHP London" should be under "L".
 
 
 ## Numbers
@@ -24,28 +23,17 @@ A collection of companies organized alphabetically. Names that begin with a numb
 
 ## A
 
-### Agile Data (MIT)
-
-Purpose: Data Access Framework for high-latency databases.
-We meet: Monthly in Parcel Yard, Kings Cross Station.
-
-* https://github.com/atk4/data/
-* @atk4, Chat: https://gitter.im/atk4/atk4
-
-PHP Tech: Composer (usable in all major apps/frameworks)
-
-### Agile UI (MIT)
-
-Purpose: Generic Web UI framework based on standard CSS framework.
-We meet: no schedule
-
-* https://github.com/atk4/ui
-
-PHP Tech: Composer (usable in all major apps/frameworks)
-
 ## B
 
 ## C
+
+### PHP Cambridge
+
+Purpose: 5-10 PHP-dev meetup, Great for general group discussions.
+We meet: Monthly in Cambridge
+
+* https://www.meetup.com/phpcambridge/
+* @twitter, chat:// - ?
 
 ## D
 
@@ -64,6 +52,14 @@ PHP Tech: Composer (usable in all major apps/frameworks)
 ## K
 
 ## L
+
+###  PHP London
+
+Purpose: General PHP Meetup, great presentations
+We meet: Monthly
+
+* https://www.meetup.com/phplondon/
+* Slack: https://phplondonslack.herokuapp.com
 
 ## M
 
