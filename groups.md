@@ -29,6 +29,22 @@ A collection of groups organized alphabetically. Names that begin with a number 
 
 ## D
 
+### Drupal Show and Tell - London
+
+Purpose: Learn about Drupal
+We meet: Monthly
+
+* https://www.meetup.com/drupal-show-and-tell/
+* Slack: N/A
+
+### Drupal West London
+
+Purpose: Learn about Drupal in West London
+We meet: Monthly
+
+* https://www.meetup.com/Drupal-West-London/
+* Slack: N/A
+
 ## E
 
 ## F
