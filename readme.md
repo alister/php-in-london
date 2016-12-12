@@ -7,6 +7,8 @@ edit directly from within the Github website if you want).
 
 * [Companies](companies.md)
 * [Recruiters](recruiters.md)
+* [Groups](groups.md)
+* [Projects](projects.md)
 
 
 ### Developer? Contracting, freelance or permanent?
