@@ -27,15 +27,23 @@ A collection of groups organized alphabetically. Names that begin with a number 
 
 ## C
 
-### PHP Cambridge
-
-Purpose: 5-10 PHP-dev meetup, Great for general group discussions.
-We meet: Monthly in Cambridge
-
-* https://www.meetup.com/phpcambridge/
-* @twitter, chat:// - ?
-
 ## D
+
+### Drupal Show and Tell - London
+
+Purpose: Learn about Drupal
+We meet: Monthly
+
+* https://www.meetup.com/drupal-show-and-tell/
+* Slack: N/A
+
+### Drupal West London
+
+Purpose: Learn about Drupal in West London
+We meet: Monthly
+
+* https://www.meetup.com/Drupal-West-London/
+* Slack: N/A
 
 ## E
 
@@ -53,13 +61,13 @@ We meet: Monthly in Cambridge
 
 ## L
 
-###  PHP London
+### Laravel London
 
-Purpose: General PHP Meetup, great presentations
-We meet: Monthly
+Purpose: A group for developers, entrepreneurs and business owners who are interested in learning more about Laravel
+We meet: Quarterly
 
-* https://www.meetup.com/phplondon/
-* Slack: https://phplondonslack.herokuapp.com
+* https://www.meetup.com/London-Laravel/
+* Slack: N/A
 
 ## M
 
@@ -69,33 +77,56 @@ We meet: Monthly
 
 ## P
 
+###  PHP London
+
+Purpose: General PHP Meetup, great presentations
+We meet: Monthly
+
+* https://www.meetup.com/phplondon/
+* Slack: https://phplondonslack.herokuapp.com
 
 ## Q
 
-
 ## R
-
 
 ## S
 
+### Symfony User Group
+
+Purpose: Meet other developers using symfony near you
+We meet: Bi-monthly
+
+* https://www.meetup.com/symfony/
+* Slack: http://slack.symfony.org.uk
 
 ## T
 
 ## U
 
-
 ## V
-
 
 ## W
 
+### WordPress London
+
+Purpose: WordPress London is a monthly meetup for developers and users of WordPress
+We meet: Monthly
+
+* https://www.meetup.com/London-WordPress/
+
+### WP Hooked
+
+Purpose: WP Hooked is a forum/meetup for WordPress core contributors, theme and plugin developers to get together and share issues, ideas and tips about WordPress
+We meet: N/A
+
+* https://www.meetup.com/wp_hooked/
+* Slack: N/A
+
 ## X
 
-
 ## Y
-
 
 ## Z
 
 ----
-Want to add your group / community? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
+Want to add your group / community? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/groups.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
