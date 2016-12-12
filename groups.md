@@ -27,14 +27,6 @@ A collection of groups organized alphabetically. Names that begin with a number 
 
 ## C
 
-### PHP Cambridge
-
-Purpose: 5-10 PHP-dev meetup, Great for general group discussions.
-We meet: Monthly in Cambridge
-
-* https://www.meetup.com/phpcambridge/
-* @twitter, chat:// - ?
-
 ## D
 
 ## E
@@ -53,13 +45,13 @@ We meet: Monthly in Cambridge
 
 ## L
 
-###  PHP London
+### Laravel London
 
-Purpose: General PHP Meetup, great presentations
-We meet: Monthly
+Purpose: A group for developers, entrepreneurs and business owners who are interested in learning more about Laravel
+We meet: Quarterly
 
-* https://www.meetup.com/phplondon/
-* Slack: https://phplondonslack.herokuapp.com
+* https://www.meetup.com/London-Laravel/
+* Slack: N/A
 
 ## M
 
@@ -69,31 +61,47 @@ We meet: Monthly
 
 ## P
 
+###  PHP London
+
+Purpose: General PHP Meetup, great presentations
+We meet: Monthly
+
+* https://www.meetup.com/phplondon/
+* Slack: https://phplondonslack.herokuapp.com
 
 ## Q
 
-
 ## R
-
 
 ## S
 
+### Symfony User Group
+
+Purpose: Meet other developers using symfony near you
+We meet: Bi-monthly
+
+* https://www.meetup.com/symfony/
+* Slack: http://slack.symfony.org.uk
 
 ## T
 
 ## U
 
-
 ## V
-
 
 ## W
 
+### WordPress London
+
+Purpose: WordPress London is a monthly meetup for developers and users of WordPress
+We meet: Monthly
+
+* https://www.meetup.com/London-WordPress/
+* Slack: N/A
+
 ## X
 
-
 ## Y
-
 
 ## Z
 
