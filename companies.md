@@ -77,7 +77,14 @@ SW6 3JA
 * https://www.deskpro.com | [DeskPRO Jobs](https://www.deskpro.com/careers/)
 
 ## E
+### EmailOctopus,
+11-17 Exmouth Place,
+Hackney,
+London
+E8 3RW
 
+* http://www.emailoctopus.com
+* [@emailoctopusco](https://twitter.com/emailoctopusco)
 
 ## F
 
