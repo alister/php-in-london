@@ -83,7 +83,7 @@ Hackney,
 London
 E8 3RW
 
-* http://www.emailoctopus.com
+* https://emailoctopus.com/
 * [@emailoctopusco](https://twitter.com/emailoctopusco)
 
 ## F
