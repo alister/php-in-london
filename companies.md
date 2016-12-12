@@ -185,6 +185,15 @@ WC2H 8AD
 * http://www.timeout.com/
 * [@timeout](https://twitter.com/timeout)
 
+### Ticket Tailor
+Unit 11
+11 - 17 Exmouth Place
+London
+E8 3RW
+
+* http://www.tickettailor.com/
+* [@tickettailor](https://twitter.com/tickettailor)
+
 ## U
 
 
