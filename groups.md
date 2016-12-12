@@ -129,4 +129,4 @@ We meet: N/A
 ## Z
 
 ----
-Want to add your group / community? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
+Want to add your group / community? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/groups.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
