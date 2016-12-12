@@ -97,6 +97,13 @@ Purpose: WordPress London is a monthly meetup for developers and users of WordPr
 We meet: Monthly
 
 * https://www.meetup.com/London-WordPress/
+
+### WP Hooked
+
+Purpose: WP Hooked is a forum/meetup for WordPress core contributors, theme and plugin developers to get together and share issues, ideas and tips about WordPress
+We meet: N/A
+
+* https://www.meetup.com/wp_hooked/
 * Slack: N/A
 
 ## X
