@@ -8,7 +8,6 @@ edit directly from within the Github website if you want).
 * [Companies](companies.md)
 * [Recruiters](recruiters.md)
 * [Groups](groups.md)
-* [Projects](projects.md)
 
 
 ### Developer? Contracting, freelance or permanent?
@@ -17,8 +16,8 @@ Tell recruiters... exactly when you are available - and tell them when you're no
 
 Your time is valuable. Don't spend it chasing your next role, or fending off recruiter's calls and emails when you aren't looking.
 
-Tell recruiters when you are next available,
-Let them find you as soon as you are ready to talk to them
+Tell recruiters when you are available next,
+Let them find you as soon as you're ready to talk to them.
 
 ---
 
