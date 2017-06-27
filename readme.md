@@ -10,9 +10,12 @@ edit directly from within the Github website if you want).
 * [Groups](groups.md)
 
 
+Not in London? I'm considering a PHP-in-UK list, let me know what you think using [the Github issue](https://github.com/alister/php-in-london/issues/27).
+
+
 ### Developer? Contracting, freelance or permanent?
 
-Tell recruiters... exactly when you are available - and tell them when you're not - [Contract Availability](https://www.contractavailability.com/).
+Tell recruiters... exactly when you are available - and tell them when you're not - [Contract Availability](https://www.contractavailability.com/?dst=src.php-in-lon).
 
 Your time is valuable. Don't spend it chasing your next role, or fending off recruiter's calls and emails when you aren't looking.
 
