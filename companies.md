@@ -168,7 +168,7 @@ EC2Y 9DT
 London.
 W1F 7TU
 
-* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotify.com/uk/jobs/opportunities/)
+* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
 * [@spotify](https://twitter.com/spotify)
 
 ## T
@@ -179,7 +179,7 @@ Blue Fin Building,
 London
 SE1 0SU 
 
-* http://www.timeincuk.com/ | http://www.timeincuk.com/careers/
+* https://www.timeincuk.com/ | https://www.timeincuk.com/careers/
 * [@TimeIncUK](https://twitter.com/TimeIncUK)
 
 
@@ -189,7 +189,7 @@ SE1 0SU
 London
 WC2H 8AD
 
-* http://www.timeout.com/
+* https://www.timeout.com/
 * [@timeout](https://twitter.com/timeout)
 
 ### Ticket Tailor
