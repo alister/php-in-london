@@ -50,7 +50,7 @@ organized under **Numbers**.
 London.
 EC2M 4YF
 
-* http://www.explore-group.com | [careers](http://www.explore-group.com/job-search-results/28/)
+* https://www.explore-group.com/ | [careers](https://www.explore-group.com/jobs/28/)
 * [@Exploregroup1](https://twitter.com/Exploregroup1)
 
 ## F
