@@ -228,5 +228,11 @@ Company Activity: International Currency Transfers
 
 ## Z
 
+### Zoopla Property Group
+ZPG Plc, The Cooperage, 5 Copper Row, London. SE1 2LH
+
+* https://www.zoopla.co.uk/about/ | [Careers](https://www.zpg.co.uk/careers)
+* [@ZPGCareers](https://twitter.com/zpgcareers)
+
 ----
 Want to add a company? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
