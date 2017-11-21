@@ -134,7 +134,7 @@ London.
 EC1R 0AT
 
 * https://www.mybuilder.com | [careers](http://careers.mybuilder.com/) | [Tech blog](http://tech.mybuilder.com/)
-* @mybuilder 
+* [@mybuilder](https://twitter.com/mybuilder?lang=en)
 
 PHP Tech: Symfony, DDD, PHPUnit, [Cronos bundle](https://github.com/mybuilder/cronos-bundle), [Supervisor bundle](https://github.com/mybuilder/supervisor-bundle)
 
