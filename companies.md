@@ -64,7 +64,7 @@ EC1R 0LU
 London.
 W1T 4JD
 
-* http://www.dennis.co.uk | [careers](http://www.denniscareers.co.uk/)
+* http://www.dennis.co.uk | [careers](http://www.dennis.co.uk/careers/)
 * [@lifeatdennis](https://twitter.com/lifeatdennis)
 
 PHP Tech: e.g. Drupal.
