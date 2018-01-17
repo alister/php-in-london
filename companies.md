@@ -27,12 +27,16 @@ organized under **Numbers**.
 ## A
 
 ### Amara,
-6-8 Bonhill Street,
+1 Primrose St,
 London.
-EC2A 4BX
+EC2A 2EX
 
 * https://www.amara.com
 * [@amaraliving](https://twitter.com/amaraliving)
+
+PHP Tech: Symfony, behat, PHPUnit
+
+Company Activity: Provide the best designer homeware combined with the highest quality customer service
 
 ### Ayima,
 1st Floor,
