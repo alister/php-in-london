@@ -76,7 +76,7 @@ United Kingdom
 London.
 W1T 4JD
 
-* http://www.dennis.co.uk | [careers](http://www.dennis.co.uk/careers/)
+* https://www.dennis.co.uk | [careers](https://www.dennis.co.uk/careers/)
 * [@lifeatdennis](https://twitter.com/lifeatdennis)
 
 PHP Tech: e.g. Drupal.
@@ -96,7 +96,7 @@ London
 E8 3RW
 
 * https://emailoctopus.com/
-* [@emailoctopusco](https://twitter.com/emailoctopusco)
+* [@emailoctopusco](https://twitter.com/EmailOctopus)
 
 ## F
 
@@ -145,9 +145,9 @@ Clerkenwell,
 London.
 EC1R 0AT
 
-* https://www.mybuilder.com | [careers](http://careers.mybuilder.com/) | [Tech blog](http://tech.mybuilder.com/)
+* https://www.mybuilder.com | [careers](https://careers.mybuilder.com/) | [Tech blog](https://tech.mybuilder.com/)
 * [@mybuilder](https://twitter.com/mybuilder?lang=en)
-
+qq
 PHP Tech: Symfony, DDD, PHPUnit, [Cronos bundle](https://github.com/mybuilder/cronos-bundle), [Supervisor bundle](https://github.com/mybuilder/supervisor-bundle)
 
 Company Activity: The better way to find a builder
@@ -204,7 +204,7 @@ Blue Fin Building,
 London
 SE1 0SU 
 
-* https://www.timeincuk.com/ | https://www.timeincuk.com/careers/
+* https://www.ti-media.com | https://www.ti-media.com/careers/
 * [@TimeIncUK](https://twitter.com/TimeIncUK)
 
 

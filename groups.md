@@ -97,7 +97,6 @@ Purpose: Meet other developers using symfony near you
 We meet: Bi-monthly
 
 * https://www.meetup.com/symfony/
-* Slack: http://slack.symfony.org.uk
 
 ## T
 
@@ -119,7 +118,7 @@ We meet: Monthly
 Purpose: WP Hooked is a forum/meetup for WordPress core contributors, theme and plugin developers to get together and share issues, ideas and tips about WordPress
 We meet: N/A
 
-* https://www.meetup.com/wp_hooked/
+* https://www.meetup.com/wp-admin/
 * Slack: N/A
 
 ## X
