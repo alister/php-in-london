@@ -108,7 +108,7 @@ We meet: Bi-monthly
 
 ### WordPress London
 
-Purpose: WordPress London is a monthly meetup for developers and users of WordPress
+Purpose: WordPress London is a monthly meetup for developers and users of WordPress. 
 We meet: Monthly
 
 * https://www.meetup.com/London-WordPress/
@@ -119,7 +119,6 @@ Purpose: WP Hooked is a forum/meetup for WordPress core contributors, theme and 
 We meet: N/A
 
 * https://www.meetup.com/wp-admin/
-* Slack: N/A
 
 ## X
 

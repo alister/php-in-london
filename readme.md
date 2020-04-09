@@ -6,21 +6,10 @@ area (within ~20 miles), add them here with a quick pull request (you can also
 edit directly from within the Github website if you want).
 
 * [Companies](companies.md)
-* [Recruiters](recruiters.md)
 * [Groups](groups.md)
 
 
 Not in London? I'm considering a PHP-in-UK list, let me know what you think using [the Github issue](https://github.com/alister/php-in-london/issues/27).
-
-
-### Developer? Contracting, freelance or permanent?
-
-Tell recruiters... exactly when you are available - and tell them when you're not - [Contract Availability](https://www.contractavailability.com/?dst=src.php-in-lon).
-
-Your time is valuable. Don't spend it chasing your next role, or fending off recruiter's calls and emails when you aren't looking.
-
-Tell recruiters when you are available next,
-Let them find you as soon as you're ready to talk to them.
 
 ---
 

@@ -1,19 +1,5 @@
 # Recruiters
 
-### Don't spend your time asking if contractors are looking
-
-* talk to those candidates that want to to talk to you,
-* that can fill your clients needs,
-* and find out as soon as they become available.
-
-You already know the candidates that can do the job, and that you want to be able to hire next - but what 
-if you could see exactly when they were going to be available, without having to continually call them, 
-*just in case* they were ready to look for a new job?
-
-Find the contractors that want to hear from you: [Contract Availability](https://www.contractavailability.com/for/recruiters?dst=src.phpinlon).
-
----
-
 When adding a company/recruiter, sort them by name and use this format:
 ```
 ### Name, Company Name,
@@ -79,17 +65,6 @@ EC2M 4YF
 ## R
 
 ## S
-
-### Snap.hr,
-1 Fore St.,
-WeWork,
-London.
-EC2Y 9DT
-
-* https://snap.hr | [careers](https://snap.hr/jobs/php/)
-* @snap_hr
-
-Seeking skills: e.g. Symfony, Silex, Laravel,…
 
 ## T
 
