@@ -163,6 +163,16 @@ PHP Tech: Symfony, DDD, PHPUnit, [Cronos bundle](https://github.com/mybuilder/cr
 
 Company Activity: The better way to find a builder
 
+### My Voucher Codes
+Medius House,
+2 Sheraton St,
+London
+W1F 8BH
+
+* https://www.myvouchercodes.co.uk
+* [@MyVoucherCodes](https://twitter.com/MyVoucherCodes)
+
+Company Activity: All your discount codes in one place
 
 ## N
 
