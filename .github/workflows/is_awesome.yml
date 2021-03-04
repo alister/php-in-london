@@ -1,0 +1,22 @@
+name: check-awesome-links
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Checks
+      run: |
+        gem install awesome_bot
+        awesome_bot --white-list example.com,github.com,travis-ci.org,creativecommons.org,zpg.co.uk,zoopla.co.uk,explore-group.com,www.amara.com --set-timeout 5 --allow-timeout *.md

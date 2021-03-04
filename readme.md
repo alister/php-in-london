@@ -16,7 +16,8 @@ Not in London? I'm considering a PHP-in-UK list, let me know what you think usin
 This is a local version of [@awoods](https://twitter.com/awoods/status/652204250408161280) list for [Seattle-based PHP companies](https://github.com/andrewwoods/php-in-seattle).
 
 
-[![Travis Status](https://travis-ci.org/alister/php-in-london.svg?branch=master)](https://travis-ci.org/alister/php-in-london)
+[![Awesome Status](https://github.com/alister/php-in-london/actions/workflows/is_awesome/badge.svg)](https://github.com/alister/php-in-london/actions)
+
 
 ## License
 

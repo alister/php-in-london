@@ -1,9 +1,0 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot --white-list example.com,github.com,travis-ci.org,creativecommons.org,zpg.co.uk,zoopla.co.uk,explore-group.com --set-timeout 5 --allow-timeout *.md
-notifications:
-  email: false
