@@ -31,7 +31,7 @@ organized under **Numbers**.
 London.
 EC2A 2EX
 
-* https://www.amara.com
+* https://www.amara.com/
 * [@amaraliving](https://twitter.com/amaraliving)
 
 PHP Tech: Symfony, behat, PHPUnit
@@ -196,7 +196,7 @@ Company Activity: All your discount codes in one place
 London
 EC1N 2HT
 
-* https://www.sainsburys.co.uk | https://www.sainsburys.work/dandt/
+* https://www.sainsburys.co.uk
 * [@sainsburys](https://twitter.com/sainsburys)
 
 ### Spotify Limited.
@@ -205,20 +205,10 @@ EC1N 2HT
 London.
 W1F 7TU
 
-* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
+* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotifyjobs.com/jobs)
 * [@spotify](https://twitter.com/spotify)
 
 ## T
-
-### Time Inc. UK.
-Blue Fin Building, 
-110 Southwark Street, 
-London
-SE1 0SU 
-
-* https://www.ti-media.com | https://www.ti-media.com/careers/
-* [@TimeIncUK](https://twitter.com/TimeIncUK)
-
 
 ### TimeOut
 4th Floor
@@ -266,7 +256,7 @@ Company Activity: International Currency Transfers
 ### Zoopla Property Group
 ZPG Plc, The Cooperage, 5 Copper Row, London SE1 2LH
 
-* https://www.zoopla.co.uk/about/ | [Careers](https://www.zpg.co.uk/careers)
+* https://www.zoopla.co.uk/about/ | [Careers](https://careers.zoopla.co.uk/)
 * [@ZPGCareers](https://twitter.com/zpgcareers)
 
 ----

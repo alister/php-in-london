@@ -19,4 +19,4 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot --white-list example.com,github.com,travis-ci.org,creativecommons.org,zpg.co.uk,zoopla.co.uk,explore-group.com --set-timeout 5 --allow-timeout *.md
+        awesome_bot --white-list example.com,github.com,travis-ci.org,creativecommons.org,zpg.co.uk,zoopla.co.uk,explore-group.com,www.amara.com --set-timeout 5 --allow-timeout *.md
