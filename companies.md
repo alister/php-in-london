@@ -196,7 +196,7 @@ Company Activity: All your discount codes in one place
 London
 EC1N 2HT
 
-* https://www.sainsburys.co.uk
+* https://www.sainsburys.co.uk/
 * [@sainsburys](https://twitter.com/sainsburys)
 
 ### Spotify Limited.
@@ -205,7 +205,7 @@ EC1N 2HT
 London.
 W1F 7TU
 
-* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotifyjobs.com/jobs)
+* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.lifeatspotify.com/jobs)
 * [@spotify](https://twitter.com/spotify)
 
 ## T
@@ -241,7 +241,7 @@ Millbank Tower,
 London.
 SW1P 4QP
 
-* https://www.worldfirst.com/uk/ | [Careers](https://www.worldfirst.com/uk/careers/current-vacancies/)
+* https://www.worldfirst.com/uk/ | [Careers](https://www.worldfirst.com/uk/careers/)
 
 Company Activity: International Currency Transfers
 
