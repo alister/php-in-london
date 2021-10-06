@@ -26,12 +26,12 @@ organized under **Numbers**.
 
 ## A
 
-### Amara,
-1 Primrose St,
+### AMARA,
+199 Bishopsgate,
 London.
-EC2A 2EX
+EC2M 3TY
 
-* https://www.amara.com/
+* https://www.amara.com/ | [careers](https://www.amara.com/content/careers)
 * [@amaraliving](https://twitter.com/amaraliving)
 
 PHP Tech: Symfony, behat, PHPUnit
