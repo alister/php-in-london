@@ -82,11 +82,12 @@ W1T 4JD
 PHP Tech: e.g. Drupal.
 
 ### DeskPRO Ltd.
-81-83 Fulham High Street
-London
-SW6 3JA
+79 Hartfield Road,
+London.
+SW19 3ES
 
-* https://www.deskpro.com | [DeskPRO Jobs](https://www.deskpro.com/careers/)
+* https://www.deskpro.com 
+* https://php.dev
 
 ## E
 ### EmailOctopus,
