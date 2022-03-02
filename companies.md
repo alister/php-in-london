@@ -71,23 +71,13 @@ United Kingdom
 
 
 ## D
-### Dennis Publishing,
-30 Cleveland Street,
-London.
-W1T 4JD
-
-* https://www.dennis.co.uk | [careers](https://www.dennis.co.uk/careers/)
-* [@lifeatdennis](https://twitter.com/lifeatdennis)
-
-PHP Tech: e.g. Drupal.
-
 ### DeskPRO Ltd.
 79 Hartfield Road,
 London.
 SW19 3ES
 
 * https://www.deskpro.com 
-* https://php.dev
+* [php.dev](https://www.deskpro.com/careers)
 
 ## E
 ### EmailOctopus,
@@ -111,6 +101,16 @@ EC2A 3QQ
 * [@fatbeehive](https://twitter.com/fatbeehive)
 
 PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, MailChimp.
+
+### Future
+30 Cleveland Street,
+London.
+W1T 4JD
+
+* https://www.futureplc.com
+* [@lifeatdennis](https://twitter.com/lifeatdennis)
+
+PHP Tech: e.g. Drupal.
 
 ## G
 
