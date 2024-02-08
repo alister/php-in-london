@@ -92,10 +92,10 @@ E8 3RW
 ## F
 
 ### Fat Beehive,
-Unit 6, Suna House
-65 Rivington Street,
+10A Lant Street,
+Southwark,
 London.
-EC2A 3QQ
+SE1 1QR
 
 * https://www.fatbeehive.com/
 * [@fatbeehive](https://twitter.com/fatbeehive)
