@@ -75,7 +75,6 @@ Purpose: General PHP Meetup, great presentations
 We meet: Monthly
 
 * https://www.meetup.com/phplondon/
-* Slack: https://phplondonslack.herokuapp.com
 
 ## Q
 

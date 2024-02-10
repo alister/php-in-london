@@ -107,7 +107,7 @@ PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, Mail
 London.
 W1T 4JD
 
-* https://www.futureplc.com
+* https://futureplc.com/
 * [@lifeatdennis](https://twitter.com/lifeatdennis)
 
 PHP Tech: e.g. Drupal.
@@ -157,8 +157,8 @@ Clerkenwell,
 London.
 EC1R 0AT
 
-* https://www.mybuilder.com | [careers](https://careers.mybuilder.com/) | [Tech blog](https://tech.mybuilder.com/)
-* [@mybuilder](https://twitter.com/mybuilder?lang=en)
+* https://www.mybuilder.com | [careers](https://careers.instapro.group/) | [Tech blog](https://tech.mybuilder.com/)
+* [@mybuilder](https://twitter.com/mybuilder)
 qq
 PHP Tech: Symfony, DDD, PHPUnit, [Cronos bundle](https://github.com/mybuilder/cronos-bundle), [Supervisor bundle](https://github.com/mybuilder/supervisor-bundle)
 
@@ -206,7 +206,7 @@ EC1N 2HT
 London.
 W1F 7TU
 
-* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.lifeatspotify.com/jobs)
+* https://open.spotify.com/ | [Spotify Jobs](https://www.lifeatspotify.com/jobs)
 * [@spotify](https://twitter.com/spotify)
 
 ## T
@@ -253,12 +253,6 @@ Company Activity: International Currency Transfers
 
 
 ## Z
-
-### Zoopla Property Group
-ZPG Plc, The Cooperage, 5 Copper Row, London SE1 2LH
-
-* https://www.zoopla.co.uk/about/ | [Careers](https://careers.zoopla.co.uk/)
-* [@ZPGCareers](https://twitter.com/zpgcareers)
 
 ----
 Want to add a company? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
