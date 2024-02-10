@@ -26,18 +26,6 @@ organized under **Numbers**.
 
 ## A
 
-### AMARA,
-199 Bishopsgate,
-London.
-EC2M 3TY
-
-* https://www.amara.com/ | [careers](https://www.amara.com/content/careers)
-* [@amaraliving](https://twitter.com/amaraliving)
-
-PHP Tech: Symfony, behat, PHPUnit
-
-Company Activity: Provide the best designer homeware combined with the highest quality customer service
-
 ### Ayima,
 1st Floor,
 1 Lindsey Street,
